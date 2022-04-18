@@ -1,2 +1,2 @@
-# SamsungSolutions
-This includes the solution to popular Samsung Competency test Questions
+ # SamsungSolutions
+these are the question that are being asked in samsung competency test
